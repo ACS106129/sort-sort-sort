@@ -1,0 +1,44 @@
+# Compiled class file
+*.class
+
+# Bin directory
+bin/
+
+# Link directort
+!build/*
+
+# Log file
+*.log
+
+# Test file
+*.txt
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+!build/lib/*.jar
+!Main.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#Else file
+.opened
+.classpath
+.project
+
+#Else dir
+.metadata/
+.vscode/
